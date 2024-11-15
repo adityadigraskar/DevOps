@@ -1,4 +1,5 @@
 #### Test comment
+#### New comment
 
 provider "aws" {
 region = "us-west-2"
